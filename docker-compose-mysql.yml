@@ -1,0 +1,7 @@
+mysql1:
+  container_name: tutor_resource
+  image: mysql:5.6
+  ports:
+    - "127.0.0.1:3306:3306"
+  env_file:
+    - mysql_env

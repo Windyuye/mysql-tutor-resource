@@ -1,0 +1,7 @@
+######################################################################################################
+# WARNING: This file is generated from template, please edit this file using MASTER/<template> and <environment>/string.js
+######################################################################################################
+MYSQL_ROOT_PASSWORD=iAsk12345
+MYSQL_USER=iAsk
+MYSQL_PASSWORD=iAsk1234567
+MYSQL_DATABASE=TutorResource
