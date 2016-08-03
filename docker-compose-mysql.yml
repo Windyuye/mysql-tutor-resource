@@ -5,12 +5,3 @@ mysql1:
     - 3306:3306
   env_file:
     - mysql_env
-phpmyadmin:
-  container_name: phpmyadmin
-  image: phpmyadmin/phpmyadmin
-  links:
-    - mysql1:mysql
-  ports:
-    - 8080:80
-  env_file:
-    - phpmyadmin_env

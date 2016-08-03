@@ -1,5 +1,0 @@
-######################################################################################################
-# WARNING: This file is generated from template, please edit this file using MASTER/<template> and <environment>/string.js
-######################################################################################################
-PMA_HOST=192.168.99.100
-PMA_PORT=3306
